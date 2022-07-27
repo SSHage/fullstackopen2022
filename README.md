@@ -10,3 +10,7 @@ Even I do a axios.put on the single item being changed (e.g. person's number) on
 item will be reflected at the new server's position.
 Instead I should create a new array with the changed item and replace the entire object at that specific ID. This way, the item will be 
 updated as well.
+
+part3:
+I could follow along with the contents easily. However, I found myself having to refer back quite frequently. I gained a deeper understanding into how the Frontend, Backend and Server interacts to create the page that we see.
+Hope to gain more insights and a more intuitive understanding of the interactions through the rest of this course.
